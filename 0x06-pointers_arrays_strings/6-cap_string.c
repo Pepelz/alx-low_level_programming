@@ -5,7 +5,7 @@
  *@entry: This is the input string
  *Return: String capitalized
  */
-char *cap_string(char *entry)
+char *cap_string(char *s)
 {
 	int i, j;
 
